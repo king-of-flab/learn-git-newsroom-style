@@ -5,25 +5,24 @@ June 27, 2016
 Serving you daily printed news since before newspapers went online.
 
 ## Local News
-* headline
-* headline
+* Cat stuck in tree!
+* Cat show going on in the city center!
 
 ## Sports
-* headline
-* headline
+* Moonauts V Crows: 93-78 in favour of Moonauts!
 
 ## Culture
-* headline
-* headline
+* All sorts of weird plants at green house
+* Battle of the bands!
 
 ## Weekly Weather
-Sunday:    REPLACE
-Monday:    REPLACE
-Tuesday:   REPLACE
-Wednesday: REPLACE
-Thursday:  REPLACE
-Friday:    REPLACE
-Saturday:  REPLACE
+Sunday:    SUNNY
+Monday:    SUNNY
+Tuesday:   RAINY
+Wednesday: CLOUDY
+Thursday:  CLOUDY
+Friday:    SNOW
+Saturday:  RAIN
 
 June 27, 2016
 25 cents

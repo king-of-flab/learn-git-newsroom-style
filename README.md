@@ -29,7 +29,7 @@ snappy! News never stops!
 ## Editor in Chief
 
 Your responsible to review pull requests and make sure the paper stays in order.
-You should be the one that forks this repo once, and everyone else should fork 
+You should be the one that forks this repo once, and everyone else should fork
 from your repo to make pull requests easier.
 
 Don't approve any pull requests that don't merge! If something doesn't merge
@@ -44,14 +44,18 @@ called "Paws at the Pumpkin Patch." Remind people there's another one coming up
 in February called "My Furry Valentine."
 * Someone needs to write a short piece about the "soduku" craze sweeping the
 nation. Can someone please get on this and tell me what the heck this is?!
+
+
 * Spider man is still on the lose harassing citizens. Someone find a picture
 of him and upload it to our spiderman folder so we have something on file the
 next time he causes us any trouble!! We don't need this picture to appear
 in this issue, we just need to have it on file for once.
-* Update the final score of the high school basketball game to 93-78. Moonauts
+
+<!-- * Update the final score of the high school basketball game to 93-78. Moonauts
 beat the Crows.
 * Someone run down to the corner store and buy us a pack of smokes. Geez!
-* The weather on the front page needs updating. Can someone fill that in already?
+* The weather on the front page needs updating. Can someone fill that in already? -->
+
 * Anyone worth their salt should take the time to update the front page to
 tell people what's actually in this issue. Keep updating it as new stories come
 in so we stay on top of the ball for once.
